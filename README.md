@@ -68,14 +68,14 @@
 
 ### Project Status
 
-| Rank | Project Name           | Contents and Skills           | Grade  |
-|------|------------------------|-------------------------------|--------|
-| 0    | libft                  | C Language, Algorithms        | 125%   |
-| 1    | ft_printf              | C Language, Algorithms        | 100%   |
-| 1    | get_next_line          | C Language, Algorithms, Unix  | 125%   |
-| 1    | born2beroot            | System administration         | 103%   |
-| 2    | push_swap              | C Language, Sorting algorithms| 100%   |
-| 2    | minitalk               |                    | 100%   |
-| 2    | so_long                |                    | 120%   |
-| 2    | philosophers           |                    | 100%   |
-| 2    | minishell              |                    |  WIP   |
+| Rank | Project Name           | Contents and Skills              | Grade  |
+|------|------------------------|----------------------------------|--------|
+| 0    | libft                  | C Language, Algorithms           | 125%   |
+| 1    | ft_printf              | C Language, Algorithms           | 100%   |
+| 1    | get_next_line          | C Language, Algorithms, Unix     | 125%   |
+| 1    | born2beroot            | System administration            | 103%   |
+| 2    | push_swap              | C Language, Sorting algorithms   | 100%   |
+| 2    | minitalk               | C Language, Unix                 | 100%   |
+| 2    | so_long                | C Language, Graphics             | 120%   |
+| 3    | philosophers           | C Language, Multi-threading, Unix| 100%   |
+| 3    | minishell              | C Language, Bash, Unix           |  WIP   |
