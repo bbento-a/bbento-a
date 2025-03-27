@@ -78,4 +78,5 @@
 | 2    | minitalk               | C Language, Unix                 | 100%   |
 | 2    | so_long                | C Language, Graphics             | 120%   |
 | 3    | philosophers           | C Language, Multi-threading, Unix| 100%   |
-| 3    | minishell              | C Language, Bash, Unix           |  WIP   |
+| 3    | minishell              | C Language, Bash, Unix           | 101%   |
+| 4    | WIP                    | N/A                              | N/A    |
